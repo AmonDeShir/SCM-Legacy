@@ -2,5 +2,4 @@
 /.gradle
 /.vscode
 /.idea
-/run/saves
-/run/logs
+/run
