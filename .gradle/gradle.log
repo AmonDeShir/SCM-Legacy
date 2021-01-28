@@ -952,4 +952,66 @@ Caused by: net.minecraft.client.renderer.block.model.ModelBlockDefinition$Missin
 [00:05:55] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:188]: [NONE, NONE, NONE, NONE, BIDIRECTIONAL, BIDIRECTIONAL]
 [00:05:55] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:187]: 0 0
 [00:05:55] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:188]: [NONE, NONE, BIDIRECTIONAL, BIDIRECTIONAL, BIDIRECTIONAL, BIDIRECTIONAL]
-[00:05:56] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentReds
+[00:05:56] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:187]: 0 0
+[00:05:56] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:188]: [NONE, NONE, BIDIRECTIONAL, NONE, NONE, NONE]
+[00:05:56] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:187]: 0 0
+[00:05:56] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:188]: [NONE, NONE, BIDIRECTIONAL, BIDIRECTIONAL, BIDIRECTIONAL, BIDIRECTIONAL]
+[00:05:57] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:187]: 0 0
+[00:05:57] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:188]: [NONE, NONE, NONE, BIDIRECTIONAL, NONE, NONE]
+[00:05:58] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:187]: 0 0
+[00:05:58] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:188]: [NONE, NONE, NONE, BIDIRECTIONAL, NONE, NONE]
+[00:05:58] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:187]: 0 0
+[00:05:58] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:188]: [NONE, NONE, NONE, NONE, NONE, BIDIRECTIONAL]
+[00:05:59] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:187]: 0 0
+[00:05:59] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:188]: [NONE, NONE, NONE, NONE, NONE, BIDIRECTIONAL]
+[00:06:00] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:187]: 0 0
+[00:06:00] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:188]: [NONE, NONE, NONE, NONE, NONE, BIDIRECTIONAL]
+[00:06:00] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:187]: 0 0
+[00:06:00] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:188]: [NONE, NONE, NONE, NONE, NONE, BIDIRECTIONAL]
+[00:06:00] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:187]: 0 0
+[00:06:00] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:188]: [NONE, NONE, NONE, NONE, NONE, BIDIRECTIONAL]
+[00:06:01] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:187]: 0 0
+[00:06:01] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:188]: [NONE, NONE, BIDIRECTIONAL, NONE, NONE, NONE]
+[00:06:01] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:187]: 0 0
+[00:06:01] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:188]: [NONE, NONE, BIDIRECTIONAL, NONE, NONE, NONE]
+[00:06:01] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:187]: 0 0
+[00:06:01] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:188]: [NONE, NONE, BIDIRECTIONAL, NONE, NONE, NONE]
+[00:06:01] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:187]: 0 0
+[00:06:01] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:188]: [NONE, NONE, BIDIRECTIONAL, NONE, NONE, NONE]
+[00:06:02] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:187]: 0 0
+[00:06:02] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:188]: [NONE, NONE, NONE, BIDIRECTIONAL, NONE, NONE]
+[00:06:03] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:187]: 0 0
+[00:06:03] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:188]: [NONE, NONE, NONE, BIDIRECTIONAL, NONE, NONE]
+[00:06:03] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:187]: 0 0
+[00:06:03] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:188]: [NONE, NONE, NONE, BIDIRECTIONAL, NONE, NONE]
+[00:06:04] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:187]: 0 0
+[00:06:04] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:188]: [NONE, NONE, NONE, NONE, BIDIRECTIONAL, NONE]
+[00:06:04] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:187]: 0 0
+[00:06:04] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:188]: [NONE, NONE, NONE, NONE, BIDIRECTIONAL, NONE]
+[00:06:04] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:187]: 0 0
+[00:06:04] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:188]: [NONE, NONE, NONE, NONE, BIDIRECTIONAL, NONE]
+[00:06:05] [Server thread/INFO]: Saving and pausing game...
+[00:06:05] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[00:06:05] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[00:06:05] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+0
+0
+0
+0
+0
+[00:08:07] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:187]: 0 0
+[00:08:07] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:188]: [NONE, NONE, NONE, NONE, BIDIRECTIONAL, NONE]
+[00:08:08] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:187]: 0 0
+[00:08:08] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:188]: [NONE, NONE, NONE, NONE, BIDIRECTIONAL, NONE]
+[00:08:08] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:187]: 0 0
+[00:08:08] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:188]: [NONE, NONE, NONE, NONE, NONE, BIDIRECTIONAL]
+[00:08:08] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:187]: 0 0
+[00:08:08] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:188]: [NONE, NONE, NONE, NONE, NONE, BIDIRECTIONAL]
+[00:08:09] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:187]: 0 0
+[00:08:09] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:188]: [NONE, NONE, NONE, NONE, BIDIRECTIONAL, BIDIRECTIONAL]
+[00:08:09] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:187]: 0 0
+[00:08:09] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:188]: [NONE, NONE, NONE, NONE, BIDIRECTIONAL, BIDIRECTIONAL]
+[00:08:10] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:187]: 0 0
+[00:08:10] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:188]: [NONE, NONE, NONE, NONE, NONE, BIDIRECTIONAL]
+[00:08:11] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:187]: 0 0
+[00:08:11] [Server thread/INFO] [STDOUT]: [com.amadornes.rscircuits.component.wire.ComponentRedstoneWire:onActivated:1
