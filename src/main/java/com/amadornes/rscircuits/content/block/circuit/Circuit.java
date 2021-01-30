@@ -3,6 +3,7 @@ package com.amadornes.rscircuits.content.block.circuit;
 import com.amadornes.rscircuits.AllTileEntites;
 import com.amadornes.rscircuits.api.circuit.ICircuit;
 import net.minecraft.block.Block;
+import net.minecraft.block.BlockRenderType;
 import net.minecraft.block.BlockState;
 import net.minecraft.block.Blocks;
 import net.minecraft.entity.player.PlayerEntity;
@@ -13,6 +14,7 @@ import net.minecraft.util.math.BlockPos;
 import net.minecraft.util.math.BlockRayTraceResult;
 import net.minecraft.util.math.shapes.ISelectionContext;
 import net.minecraft.util.math.shapes.VoxelShape;
+import net.minecraft.util.math.shapes.VoxelShapes;
 import net.minecraft.util.text.StringTextComponent;
 import net.minecraft.world.IBlockReader;
 import net.minecraft.world.World;
@@ -21,6 +23,7 @@ public class Circuit extends Block implements ICircuit {
     public Circuit(Properties properties) {
         super(Properties.from(Blocks.STONE_SLAB));
     }
+
 
     @Override
     public VoxelShape getShape(BlockState state, IBlockReader worldIn, BlockPos pos, ISelectionContext context) {

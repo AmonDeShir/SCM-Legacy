@@ -4,6 +4,7 @@ import com.amadornes.rscircuits.AllTileEntites;
 import net.minecraft.block.BlockState;
 import net.minecraft.nbt.CompoundNBT;
 import net.minecraft.tileentity.TileEntity;
+import net.minecraft.util.math.AxisAlignedBB;
 
 public class CircuitTileEntity extends TileEntity {
     private int counter = 0;
@@ -41,5 +42,10 @@ public class CircuitTileEntity extends TileEntity {
 
     public void increaseCounter() {
         setCounter(getCounter()+1);
+    }
+
+    @Override
+    public AxisAlignedBB getRenderBoundingBox() {
+        return new AxisAlignedBB(getPos(), getPos().add(1, 3, 1));
     }
 }
