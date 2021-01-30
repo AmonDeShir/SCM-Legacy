@@ -38,6 +38,7 @@ public class SCM {
 
         AllBlocks.register();
         AllItems.register();
+        AllTileEntites.register();
 
         modEventBus.addListener(SCM::init);
     }
