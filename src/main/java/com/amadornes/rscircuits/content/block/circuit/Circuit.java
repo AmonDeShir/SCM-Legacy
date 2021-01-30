@@ -45,6 +45,9 @@ public class Circuit extends Block implements ICircuit {
         if(!(worldIn.getTileEntity(pos) instanceof CircuitTileEntity))
             return  ActionResultType.PASS;
 
+        if(handIn == Hand.OFF_HAND)
+            return ActionResultType.PASS;
+
         CircuitTileEntity circuitTileEntity = (CircuitTileEntity) worldIn.getTileEntity(pos);
 
         circuitTileEntity.increaseCounter();
