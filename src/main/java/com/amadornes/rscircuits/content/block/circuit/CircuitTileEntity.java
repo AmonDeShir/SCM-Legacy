@@ -37,6 +37,7 @@ public class CircuitTileEntity extends TileEntity {
     }
 
     public void setCounter(int counter) {
+
         this.counter = counter;
     }
 
